@@ -1,0 +1,5 @@
+streamlit
+mediapipe
+streamlit_webrtc
+numpy
+twilio
